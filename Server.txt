@@ -1,1 +1,2 @@
 
+[FBAN/FB4A;FBAV/261.0.0.23245;FBBV/190176607;FBDM={density=1.5,width=720,height=1208};FBLC/en_US;FBRV/190176607;FBCR/Hot_mobile;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/D2502;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
