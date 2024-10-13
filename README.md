@@ -7,10 +7,13 @@
 
 🔒 Installation 🔒
 ```
-cd 
+cd
 rm -rf XD
 git clone --depth=1 https://github.com/CodeCrafter002/XD.git
 cd XD
+git pull
+pip install requests rich future mechanize cython
+pkg reinstall python
 chmod 777 Code
 ./Code 
 ```
